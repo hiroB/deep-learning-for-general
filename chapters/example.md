@@ -1,5 +1,16 @@
 # 🏢 事例・サービス
 
+## AIのビジネス活用
+
+#### CRISP-DM
+データマイニングのための産業横断型標準プロセス
+
+#### MLOps
+Machine Learning Operation
+AIを本番環境で開発しながら運用するまでの概念
+
+#### BPR(Business Process Re-engineering）
+
 ## 社会実装
 - [BRETT: Deep-learning robot](https://engineering.berkeley.edu/brett/)
 - [AlphaGo](https://ja.wikipedia.org/wiki/AlphaGo)
