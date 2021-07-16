@@ -34,6 +34,15 @@ GPU を画像以外の目的での利用に最適化したもの。
 #### TPU
 Google が開発したテンソル計算処理に最適化された GPU。
 
+#### Pascal P100
+NVIDIAの機械学習向けのハードウェア特性を備えたGPU
+
+#### Xeon Phi
+Intelの高性能計算向けプロセッサ
+
+#### DLU(Deep Learning Unit)
+富士通独自のディープラーニング専用AIプロセッサ
+
 ## セキュリティ
 
 ##### Adversarial attacks（敵対的な攻撃）
