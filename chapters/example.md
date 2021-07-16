@@ -150,7 +150,14 @@ Facebook が開発している TensorFlow と双璧をなすフレームワー�
 学習自体は裏で TensorFlow が行っている。
 Keras は TensorFlow のラッパー。
 
+##### CNTK
+Microsoft Cognitive Toolkit
+
 ##### [Caffe](https://caffe.berkeleyvision.org/)
+CNTKと同じく、順伝搬計算を含むネットワークをあらかじめ決めておいて、そこにデータを入力してモデルを学習させる。
+
+モデルが固定されるため、学習時に確率的に変化するネットワークなどは扱いづらい。
+
 
 ##### [Chainer](https://chainer.org/)
 Preferred Network によって開発されたフレームワーク。
