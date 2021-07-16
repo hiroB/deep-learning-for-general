@@ -175,8 +175,10 @@ AlphaGo が人間のプロ囲碁棋士を破る
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Activation_prelu.svg/800px-Activation_prelu.svg.png)
 
 ##### Parametric ReLU
+x<0領域での傾きを学習で最適化しようとするReLU関数。
 
 ##### Randomized ReLU
+x<0領域での傾きをランダムに与えるReLU関数。
 
 ## 学習率の最適化
 
