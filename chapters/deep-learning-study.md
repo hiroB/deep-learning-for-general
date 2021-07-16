@@ -259,6 +259,12 @@ HMMを用いずLTSMなどを用いた音声認識の手法
 
 近年劇的に発達し、人間が話しているものとほぼ同等に自然な音声を生成することが可能なレベルに達した。
 
+##### 自動音声認識(ASR:Automatic Speech Recognition)
+会話の音声をテキストに変換する技術
+
+##### 自然言語理解（NLU:Natural Language Understanding）
+コンピュータに自然言語を理解（読解）、または意図を抽出させようという試み。
+
 ## [強化学習](https://ja.wikipedia.org/wiki/%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92)
 
 ##### [DQN (Deep Q-Network)](https://ja.wikipedia.org/wiki/DQN_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF))
