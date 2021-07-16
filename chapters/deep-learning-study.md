@@ -235,6 +235,19 @@ word2vec との変更点は、単語の表現に文字情報も含めること�
 
 ## 音声認識
 
+##### 隠れマルコフモデル（HMM）
+混合正規モデル（混合ガウスモデル、GMM）に基づく。
+音声認識の分野では、1990年代から一般的に用いられていた。
+
+##### Switchboard Corpus
+発話データを大規模に集めたデータセット
+
+##### 単語誤り率（WER:Word Error Rate)
+音声認識の評価尺度
+
+##### CTC(Connectionist Temporal Classification)
+HMMを用いずLTSMなどを用いた音声認識の手法
+
 ##### [WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
 2016年に Google DeepMind 社により開発された、音声合成と音声認識の両者を行うことができるモデル。
 
