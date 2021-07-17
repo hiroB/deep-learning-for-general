@@ -2282,8 +2282,18 @@ Alphabet傘下の自動運転車開発企業。
 
 ### Microsoft
 
-## Community
-- [Kaggle](https://www.kaggle.com/)
+## プラットフォーム
+##### [Kaggle](https://www.kaggle.com/)
+予測モデル及び分析手法関連プラットフォーム
+
+##### arXiv
+機械学習などの論文をアップロード・ダウンロードできるプラットフォーム
+
+##### Google Scholar
+Googleの提供する検索サービスの一つで、論文・学術誌などにアクセスが可能
+
+##### Cousera
+機械学習などをオンラインで学ぶことができる教育プラットフォーム
 
 ## Library
 
